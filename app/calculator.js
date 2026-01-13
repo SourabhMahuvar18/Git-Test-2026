@@ -26,7 +26,8 @@ function multiplication(a, b){
 }
 
 function multiplyBySourabh(a,b){
- return a* b;
+function multiply(a, b) {
+    return a * b;
 }
 
 
@@ -38,6 +39,9 @@ module.exports = {
     multiply,
     multiplication,
     multiplyBySourabh
+
+    multiply
+
     
 };
 
