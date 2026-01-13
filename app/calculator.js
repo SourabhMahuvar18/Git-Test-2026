@@ -4,8 +4,8 @@
  */
 
 function add(a, b) {
-    // BUG: This is incorrect - should return a + b
-    return a - b;
+    // Bug resolved - correctly returning a + b
+    return a + b;
 }
 
 function subtract(a, b) {
